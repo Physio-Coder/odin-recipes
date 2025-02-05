@@ -1,2 +1,2 @@
 # odin-recipes
-HTML milestone project. Website with a list of 3 recipes, each linked to their individual recipe page.  
+HTML milestone project. Building a website with a landing page that list 3 recipes. Each recipe is linked to their individual recipe page.  
